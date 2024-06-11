@@ -1,0 +1,255 @@
+Scientific_name,Family,SIXLET,Symbol,Wetland,Pathway,SLA ,SLA2,SLA3,HT_matur,HT_matur2,Seed_weight,Seed_weight2,SSG,d13C,d15N,C,N,C.N,RGR,Salin_meas,Salin_meas2,rt_dpt_max,Anae_tol,Drgt_Tol,Fire_tol,Mois_use,Salin_tol,Shade_tol,Growth_R,Lifespan,Sex_repr,Veg_repr,Spread_rt,Resprout,Actual_bloom,Seed_period
+Abronia elliptica,Nyctaginaceae,ABRELL,ABEL,UPL,C3,101.88,,,0.5,0.49,2.0512,2.051,0.209,-27.5939,5.7944,34.8444,2.33,15.2541,,,,,,,,,,,,,1,2,1,,Apr  -  Sept,
+Acacia greggii,Fabaceae,ACAGRE,ACGR,FACU,C3 Likely,137.34,132.3784204,,4,4.75,179.33,179.33,0.673,-29.0899,6.1662,46.0327,2.8269,16.3552,,,,5.5,1,4,4,2,4,1,1,4,1,2,1,1,Apr - Jun,"Summer, Fall"
+Achnatherum hymenoides,Poaceae,ACHHYM,ACHY,UPL,C3 Likely,65.96,,,0.45,0.45,2.739,2.739,0.375,-28.4149,2.3692,45.8998,1.9143,25.806,,4,,1.5,1,4,4,2,2,1,2,3,1,2,1,2,May - Aug,"Spring, Summer"
+Acer negundo,Aceraceae,ACENEG,ACNE2,FACW,,232,379.3626707,,8,,36,,,,,,,,0.14,184.2,,4,3,3,1,,4,2,3,2,1,1,,,Mar  -  Jun,Oct - Mar
+Agrostis exarata,Poaceae,AGREXA,AGEX,FACW,C3,358.01,,,0.6,0.45,0.1052,0.105,0.366,,,,,,,24,,,3,2,3,3,4,1,2,,1,1,2,2,Jul  -  Aug,"Summer, Summer"
+Agosteris glauca,Asteraceae,AGOGLA,AGGL,FACU,C3,181.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agrostis stolonifera,Poaceae,AGRSTO,AGST2,FACW,C3,286,,,0.7,,0.07,,,,,,,,0.28,52,,0.5,4,2,3,4,4,1,3,,1,1,4,2,Jun - Sep,"Summer, Summer"
+Allionia incarnata,Nyctaginaceae,ALLINC,ALIN,UPL,C4,156.16,,,0.08,0.01,3.027,3.027,0.277,,,,,,,,,0.4,,,,,,,,,1,,,,Apr  -  Oct,
+Alhagi maurorum,Fabaceae,ALHMAU,ALMA12,FAC,C3 Likely,72.64,101.2281538,,0.65,0.65,5.7,5.7,0.39,,,,,,,10,,15,,,,,4,,,,1,1,,,May - Jul,
+Allenrolfea occidentalis,Amaranthaceae,ALLOCC,ALOC2,FACW,C3,46.81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ambrosia acanthicarpa,Asteraceae,AMBACA,AMAC2,UPL,,128.3,217.2707076,,0.45,,4.229,,,,,,,,,,,,,,,,,,,,,,,,Jul - Oct,
+Andropogon gerardii,Poaceae,ANDGER,ANGE,FACU,C4,325,125,,1.25,,2.32,,,,,,,,0.18,2.62,,3,,3,4,2,2,3,2,,1,1,2,2,Jul  -  Sep,"Summer, Fall"
+Andropogon glomeratus,Poaceae,ANDGLO,ANGL2,FACW,C4,221.9,,,1.1,1.15,0.338,0.338,0.218,,,,,,,0.78,,,3,2,3,4,1,2,2,,1,2,1,2,Jul  -  Oct,
+Apocynum cannabinum,Apocynaceae,APOCAN,APCA,FAC,C3 Likely,184.89,100,,0.6,0.75,0.9,0.9,0.174,-30.931,0.6744,39.2953,1.673,23.5226,,1.98,,4,3,,1,4,1,2,2,,1,1,1,2,May - Jul,"Summer, Fall"
+Aristida arizonica,Poaceae,ARIARI,ARAR6,UPL,C4 Likely,149.87,90,,0.6,0.6,8.584,8.584,0.556,,,,,,0.1,,,,,,,,,,,,1,2,1,,May  -  Oct,
+Arundo donax,Poaceae,ARUDON,ARDO4,FACW,,250,,,4,,0.1088,,,,,,,,0.125,9.6,,4.9,4,2,4,,4,,3,,2,1,,1,Mar  -  Sep,
+Artemisia dracunculus,Asteraceae,ARTDRA,ARDR4,UPL,C3,136.6,170,,0.85,1,0.1,,0.1,0.488,-29.2067,3.1306,46.4775,2.8005,16.5961,2.38,,2.1,,4,4,,,1,,,1,1,,,Aug  -  Oct,
+Artemisia ludoviciana,Asteraceae,ARTLUD,ARLU,FACU,C3 Likely,199.24,138,,0.6,0.65,0.11,0.11,0.432,-27.3454,3.6952,49.7988,2.394,20.9143,0.01,2.2,,0.7,2,4,3,2,2,,2,,1,1,3,2,Jul  -  Oct,Oct - Dec
+Argythamnia neomexicana,Euphorbiaceae,ARGNEO,ARNE2,UPL,,,,,0.23,,,,,,,,,,,,,,,4,,,,,,2,1,2,1,2,Mar  -  Dec,
+Aristida purpurea,Poaceae,ARIPUR,ARPU9,UPL,,90,70,,0.3,,1.16,,,,,,,,0.1,,,1.3,2,4,3,2,4,1,,3,1,2,1,2,Mar  -  Sept,
+Artemisia tridentata,Asteraceae,ARTTRI,ARTR2,UPL,,114.29,,,1.5,,0.5,,,,,,,,0.22,17,6,2.3,1,4,1,3,4,1,1,2,1,2,2,2,Aug  -  Nov,Oct - Dec
+Astragalus nuttallianus,Fabaceae,ASTNUT,ASNU4,UPL,,,,,0.01,,1.3,,,,,,,,,,,0.13,,,,,,,,1,1,,,,Mar  -  May,
+Atriplex canescens,Chenopodiaceae,ATRCAN,ATCA2,UPL,C4,99.23,39.7,,1.4,1,8.8,8.8,0.807,,,,,,0.126,59,,12,1,4,2,3,4,1,1,3,1,1,2,1,Mar - Aug,"Summer, Summer"
+Atriplex polycarpa,Amaranthaceae,ATRPOL,ATPO,FACU,,74.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Baccharis brachyphylla,Asteraceae,BACBRA,BABR,UPL,,115.34,,,0.6,,,,,,,,,,,,,,,,,,,,,,1,2,1,,Jul  -  Aug,
+Baccharis emoryi,Asteraceae,BACEMO,BAEM,FACW,C3 Likely,103.93,172.0650228,,2,2.01168,0.141,0.141,0.517,-28.6627,4.7345,47.8112,2.1389,22.5902,,9.8,,,,,,,4,,,,1,,,,Apr  -  Sep,
+Baccharis sarothroides,Asteraceae,BACSAR,BASA2,FACU,C3 Likely,84.83,,,2.5,2,0.14,0.2,0.633,-28.4443,0.6444,48.0718,1.8232,26.3976,,,,,2,4,1,2,3,1,2,2,1,,1,2,Oct - Mar,"Spring, Summer"
+Baccharis salicifolia,Asteraceae,BACSAL,BASA4,FAC,C3 Likely,131.67,,,2.15,3.9624,0.08,0.08,0.449,-29.3884,1.4339,46.8724,2.6707,18.0094,0.1,6,,0.6,2,3,3,3,3,1,3,,1,2,1,1,Mar - Dec,"Summer, Fall"
+Baccharis sergiloides,Asteraceae,BACSER,BASE,FACU,C3 Likely,129.14,151.5151515,,0.75,1,0.092,0.092,0.529,,,,,,,,,,2,,,,3,,,3,1,,,,Aug - Oct,
+Bebbia juncea,Asteraceae,BEBJUN,BEJU,UPL,C3,197,117.6470588,,0.8,0.79248,0.9508,0.951,0.365,,,,,,,,,,,4,,,,,,2,1,2,1,,Mar - Nov,
+Bouteloua aristidoides,Poaceae,BOUARI,BOAR,UPL,,355.27,,,0.18,,1.113,,,,,,,,,,,0.3,,,,,,,,1,1,2,1,2,Apr  -  Sept,
+Bouteloua barbata,Poaceae,BOUBAR,BOBA2,UPL,C4,370.52,,,0.16,0.3048,0.176,0.176,0.573,,,,,,,,,,2,4,4,,,,3,1,1,2,1,2,Jul - Sep,
+Bothriochloa barbinodis,Poaceae,BOTBAR,BOBA3,UPL,C4,224.15,,,1.05,1.2192,1.2411,1.241,0.364,,,,,,,8,,1.2,1,4,3,3,3,1,3,,1,1,2,2,Apr - Oct,
+Boehmeria cylindrica,Urticaceae,BOECYL,BOCY,OBL,,,,,0.9,,0.2,,,,,,,,,2.3,,,3,2,3,3,2,3,2,,1,2,1,2,Jul  -  Oct,
+Boerhavia intermedia,Nyctaginaceae,BOEINT,BOIN,UPL,,,,,0.35,,,,,,,,,,,,,,,4,,,,,,1,1,2,1,2,Aug  -  Oct,
+Boerhavia wrightii,Nyctaginaceae,BOEWRI,BOWR,UPL,,168.85,,,0.35,,,,,,,,,,,,,,,4,,,,,,1,1,2,1,2,Aug  -  Dec,
+Bromus arvensis,Poaceae,BROARV,BRAR5,FACU,C3 Likely,161.94,,,0.5,0.48768,2.2,2.2,0.467,,,,,,,0.9,,1.5,3,2,1,3,1,1,3,1,1,2,1,2,May  -  Jul,
+Brickellia californica,Asteraceae,BRICAL,BRCA3,FACU,C3 Likely,207.34,364,,0.75,0.75,0.2,0.2,0.51,-28.7051,2.0863,44.6047,2.999,15.0712,,,,,,,,,,1,,,1,2,1,,Aug  -  Oct,
+Bromus catharticus,Poaceae,BROCAT,BRCA6,UPL,,,,,0.9144,,7.7,,,,,,,,,,,1.2,1,2,2,4,3,1,3,,1,2,1,2,Apr - Nov,"Spring, Spring"
+Bromus diandrus,Poaceae,BRODIA,BRDIR,UPL,C3 Likely,255.21,,,0.5,0.48768,11.243,11.24,0.297,-27.7156,5.8008,42.1064,2.1969,19.6156,,4.7,,,,,,,3,,,1,1,2,1,,Apr - Jun,
+Brickellia longifolia,Asteraceae,BRILON,BRLO,UPL,C3 Likely,111.88,,,1.25,1.24968,0.7372,0.737,0.486,-28.9268,5.4482,46.6361,1.4455,33.6562,,,,,2,,,,,,,2,1,2,1,,Aug - Oct,
+Bromus rubens,Poaceae,BRORUB,BRRU2,UPL,C3 Likely,305.61,600,,0.35,0.39624,2.02,3,0.253,-29.2086,5.3823,41.8412,2.8556,14.8032,0.09,,,0.1,1,4,1,2,3,1,3,1,1,2,1,2,Feb - Aug,"Spring, Spring"
+Bromus tectorum,Poaceae,BROTEC,BRTE,UPL,C3,229.66,261,170,0.425,0.381,3.3,3.3,0.261,-28.0038,-0.5561,42.0239,2.9729,14.1933,0.133,0.65,,1.17,2,4,4,,1,1,3,1,1,2,1,2,Apr - Jul,
+Carex emoryi,Cyperaceae,CAREMO,CAEM2,OBL,,130.73,,,1.28016,,0.46,,,,,,,,,,,,3,2,2,3,1,3,2,,1,1,1,2,May - Jun,
+Calystegia longipes,Convolvulaceae,CALLON,CALO12,UPL,,,,,0.65,,13.4372,,,,,,,,,,,,,,,,,,,,1,2,1,2,May  -  Jul,
+Zeltnera arizonica,Gentianaceae,ZELARI,CEAR12,FACW,,,,,0.31,,,,,,,,,,,,,,,,,,4,,,1,1,2,1,2,Mar  -  Nov,
+Centaurea calcitrapa,Asteraceae,CENCAL,CECA2,UPL,,,,,0.45,,2.3032,,,,,,,,,,,,,,,,,,,1,1,2,1,2,,
+Celtis laevigata,Ulmaceae,CELLAE,CELA,FAC,C3 Likely,272.54,,,5,4.9,92,76.05,0.679,-29.0067,2.6176,36.8277,1.5418,24.4314,,3.1,,4.6,,4,3,2,2,1,3,4,1,2,1,1,Mar - Apr,
+Cercis orbiculata,Fabaceae,CERORB,CEOR9,UPL,,,,,4.1148,,37,,,,,,,,,3,,,,4,3,,2,2,3,3,1,2,1,1,Mar - Jun,
+Chamaesyce glyptosperma,Euphorbiaceae,CHAGLY,CHGL13,UPL,,,,,0.009144,,,,,,,,,,,,,,,,,,,,,1,1,2,1,2,May  -  Sep,
+Chenopodium pratericola,Amaranthaceae,CHEPRA,CHPR5,UPL,,153.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chloracantha spinosa,Asteraceae,CHLSPI,CHSP11,FAC,,287.3,,,0.9,0.88392,,0.167,0.234,,,,,,,,,,,,,,,,,,1,1,,2,May - Dec,
+Chrysothamnus viscidiflorus,Asteraceae,CHRVIS,CHVI8,UPL,,,,,0.35,,1.21,,,,,,,,,,,2,1,4,3,2,3,1,2,2,1,2,1,1,Jul  -  Sept,
+Corispermum americanum,Chenopodiaceae,,COAM8,FACU,,173.54,,,0.29,,,2.193,0.345,,,,,,,,,,,,,,,,,,,,,,,
+Conyza canadensis,Asteraceae,CONCAN,COCA5,UPL,C3 Likely,284.17,180.3,270.2702703,0.675,1.524,0.08,0.08,0.311,-28.9092,7.9218,44.1831,1.9735,22.3888,0.26,4,,0.33,2,2,2,3,2,1,3,1,1,2,1,2,Apr - Nov,
+Croton californicus,Euphorbiaceae,CROCAL,CRCA5,UPL,,115.85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cryptantha micrantha,Boraginaceae,CRYMIC,CRMI,UPL,,122.66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cucurbita foetidissima,Curcurbitaceae,CUCFOE,CUFO,UPL,,,,,0.3048,,38.4,,,,,,,,,,,1.22,1,4,4,2,2,1,3,2,1,1,1,2,Jun - Aug,"Summer, Fall"
+Cynodon dactylon,Poaceae,CYNDAC,CYDA,FACU,C4,316.69,445,250,0.5,0.42672,0.2,0.2,0.648,,,,,,,6.9,,1.5,4,3,4,4,3,1,3,,1,1,4,2,Mar - Oct,"Summer, Summer"
+Dasyochloa pulchella,Poaceae,DASPUL,DAPU7,UPL,C4,64.63,,,0.095,0.1524,,,,,,,,,,,,0.3,,4,,,,,,,1,1,2,2,Mar  -  Oct,
+Datura wrightii,Solanaceae,DATWRI,DAWR2,UPL,C3 Likely,307.1,,,0.65,0.64008,61.1424,37.5,0.128,-29.2192,6.8964,41.5755,6.1605,6.7586,,,,,,,,,,,,,1,2,1,2,May - Oct,
+Dicoria canescens,Asteraceae,DICCAN,DICA4,UPL,C3,271.24,,,0.575,0.54864,2.21,2.21,0.298,,,,,,,,,,,,,,,,,1,1,2,1,2,Aug - Mar,
+Digitaria californica,Poaceae,DIGCAL,DICA8,UPL,,,,,1.2192,,0.38,,,,,,,,,,,1,1,4,3,2,3,1,3,,1,2,1,2,,Jul - Nov
+Digitaria sanguinalis,Poaceae,DIGSAN,DISA,FACU,,70.3,,,0.45,,0.509,,,,,,,,0.14,,,1.8,,,,,,,,1,1,2,1,,Jun  -  Sep,
+Distichlis spicata,Poaceae,DISSPI,DISP,FAC,C4,149.73,,,0.25,0.33528,0.452,0.452,0.533,,,,,,,104,,0.61,4,3,4,3,4,1,1,,2,1,3,2,Jun  -  Sep,"Summer, Fall"
+Echinochloa crus-galli,Poaceae,ECHCRU,ECCR,FACW,,397,,,0.65,,1.5,,,,,,,,0.29,5.5,,1.06,4,3,2,,3,1,3,1,1,2,1,2,Jun - Oct,
+Echinocactus polycephalus,Cactaceae,ECHPOL,ECPO2,UPL,,,,,0.5,,7.273,,,,,,,,,,,,,,1,,,,1,3,1,2,1,,Mar  -  May,
+Elaeagnus angustifolia,Elaeagnaceae,ELAANG,ELAN,FAC,,124,,,8.5,,126.8,,,,,,,,,,,12,3,3,3,4,4,2,3,4,1,2,1,1,May  -  Jun,Sep - Nov
+Elymus canadensis,Poaceae,ELYCAN,ELCA4,FAC,C3,188.32,273,,1.4,1.15,4.5,4.5,0.525,,,,,,0.21,3.8,,0.76,2,3,2,3,2,3,3,,1,2,1,2,Jun - Aug,"Spring, Spring"
+Elymus elymoides,Poaceae,ELYELY,ELEL5,FACU,C3,87.56,140,,0.425,0.28,2.978,2.978,0.508,,,,,,,4,,1,1,4,3,2,2,1,2,,1,2,1,2,May  -  Aug,
+Eleocharis palustris,Cyperaceae,ELEPAL,ELPA3,OBL,Intermediate?,86.35,,,0.4,0.39624,0.75,0.75,0.079,,,,,,,11,,0.4,4,1,3,4,4,1,2,,1,1,3,2,,
+Eleocharis rostellata,Cyperaceae,ELEROS,ELRO2,OBL,,,,,0.6096,,0.8116,,,,,,,,,,,0.25,4,1,4,4,3,1,2,,1,1,3,2,May  -  Aug,
+Elymus trachycaulus,Poaceae,ELYTRA,ELTR7,FACU,,292,120,,0.65,,3.6,,,,,,,,0.21,16,,0.3,2,3,4,2,4,3,3,2,1,1,,2,Jun  -  Aug,Sep - Nov
+Enneapogon desvauxii,Poaceae,ENNDES,ENDE,UPL,C4,383.87,,,0.3,0.18,0.4606,0.461,0.596,,,,,,,,,,,,3,,,,,,1,,,,Aug  -  Sept,
+Encelia farinosa,Asteraceae,ENCFAR,ENFA,UPL,C3,112.7,74.62686567,,0.65,0.65,1.4,1.4,0.473,-28.4303,4.462,40.9029,2.6887,15.2348,,,,0.55,1,4,1,2,1,1,3,2,1,2,1,1,Feb - Jun,"Summer, Summer"
+Ephedra nevadensis,Ephedraceae,EPHNEV,EPNE,UPL,,,,,0.65,,26.402,,,,,,,,,,,2,1,4,1,2,4,1,2,4,1,1,2,2,Mar  - May,"Summer, Fall"
+Ephedra torreyana,Ephedraceae,EPHTOR,EPTO,UPL,C3,21.57,,,0.6,0.3,25.309,,5.6832,43.1483,1.7351,25.1985,,,,,,0.7,1,4,3,2,4,1,1,4,1,,1,1,Apr - May,
+Ephedra viridis,Ephedraceae,EPHVIR,EPVI,UPL,,,,,0.88,,14.578,,,,,,,,,10,,2.4,1,4,4,2,4,2,1,4,1,2,3,1,,Jul - Sep
+Equisetum arvense,Equisetaceae,EQUARV,EQAR,FAC,C3 Likely,262.41,,,0.3,0.27432,,,0.19,-28.9244,3.1119,34.5019,1.8267,19.0234,,1.5,,3,4,1,1,4,1,2,3,,1,1,3,2,,
+Equisetum x ferrissii ,Equisetaceae,EQUFER,EQFE,FACW,,68.25,,,0.6,,,0.158,-27.6406,4.926,29.9105,1.4973,20.6066,,,,,,,,,,,,,,,,,,,
+Equisetum hyemale,Equisetaceae,EQUHYE,EQHY,FACW,C3 Likely,,,,0.6096,,,,,,,,,,,2.1,,1.5,4,2,3,,2,3,,,1,1,,2,,
+Eragrostis cilianensis,Poaceae,ERACIL,ERCI,FACU,,,,,0.6096,,0.08,,,,,,,,,,,,,,,,,,,1,1,2,1,2,Jul  -  Sep,
+Erodium cicutarium,Geraniaceae,EROCIC,ERCI6,UPL,C3 Likely,159.11,290,,0.3,0.1,2.1,2.1,0.215,-29.0541,3.0389,40.6976,2.281,18.3749,0.052,,,0.5,2,4,3,,,2,,1,1,2,1,2,Feb - Aug,
+Eragrostis curvula,Poaceae,ERACUR,ERCU2,UPL,C4,157.13,54.2,,0.9,0.8,0.2,0.2,0.311,,,,,,,,,4.6,2,4,3,3,2,1,3,,1,2,1,2,Aug - Oct,Sep - Oct
+Eriastrum eremicum,Polemoniaceae,ERIERE,ERER2,UPL,,125.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eriogonum inflatum,Polygonaceae,ERIINF,ERIN4,UPL,,75.6,,,0.69,,0.815,,,,,,,,,,,,,4,,,,,,2,1,2,1,,Mar  -  Oct,
+Eragrostis lehmanniana,Poaceae,ERALEH,ERLE,UPL,,150,,,0.45,,0.07,,,,,,,,0.158,,,1.2,1,3,3,2,3,1,3,,1,1,2,2,,Oct - Nov
+Ericameria nauseosa,Asteraceae,ERINAU,ERNA10,UPL,,109,109.8901099,,1.1,,1,,,,,,,,,6,,4,,,4,,3,,3,2,1,2,1,1,Aug  -  Oct,Sep - Nov
+Eragrostis pectinacea,Poaceae,ERAPEC,ERPE,FAC,,,,,0.375,,0.152,,,,,,,,,,,1.22,,,,,,,,1,1,2,1,,Jul  -  Aug,
+Euthamia occidentalis,Asteraceae,EUTOCC,EUOC4,FACW,C3 Likely,196.68,,,0.8,1.25,0.106,0.106,0.387,-30.2088,0.9485,44.5666,2.7476,16.2201,,,,,2,3,4,3,1,1,2,,1,1,2,2,Jun - Oct,"Summer, Fall"
+Fallugia paradoxa,Rosaceae,FALPAR,FAPA,UPL,C3,97.1,74.62686567,,1.5,1.8288,1,1,0.578,-26.8613,-0.0993,45.6338,1.7179,27.0177,,,,,1,4,2,2,2,1,3,3,1,1,2,1,Apr - Nov,Jun - Dec
+Festuca thurberi,Poaceae,FESTHU,FETH,UPL,,,,,0.68,,1.636,,,,,,,,,,,0.4,3,3,3,2,2,1,2,,1,2,1,2,Jun  -  Aug,Aug - Sep
+Fraxinus velutina,Oleaceae,FRAVEL,FRVE2,FAC,,209,135.1351351,,15,,22.2,,,,,,,,0.11,,,2.1,,3,2,2,1,1,2,3,1,2,1,2,Apr  -  Sep,"Summer, Fall"
+Funastrum cynanchoides,Asclepiadaceae,FUNCYN,FUCYC,FACU,C3,485.07,,,1.00584,,,,,,,,,,,,,,,,,,,,,,1,2,1,,Apr  -  Jul,
+Gutierrezia microcephala,Asteraceae,GUTMIC,GUMI,UPL,C3 Likely,121.36,79,79.36507937,0.65,0.4,0.7356,0.736,0.507,,,,,,,,,0.174,,4,2,,,1,,2,1,2,1,1,Jul  -  Oct,
+Gutierrezia sarothrae,Asteraceae,GUTSAR,GUSA2,UPL,C3,193.88,33.9,90,0.48,0.4,0.21,0.21,0.592,-29.514,-0.31,47.9045,1.3702,36.0271,,,,2,1,4,3,3,2,1,2,2,1,2,1,2,May - Nov,"Summer, Fall"
+Hesperostipa comata,Poaceae,HESCOM,HECOC8,UPL,,60,,,0.55,,3.732,,,,,,,,0.1,1.15,,1.5,1,4,4,2,1,1,2,,1,2,1,2,May - Jul,Jul
+Heliotropium curassavicum,Boraginaceae,HELCUR,HECU3,FACU,,94.7,,,,,,,,,,,,,,15,,,,,,,,,,,,,,,,
+Hordeum jubatum,Poaceae,HORJUB,HOJU,FAC,C3,207.72,118,,0.285,0.5,2.209,2.209,0.554,,,,,,0.36,39.8,,,,2,2,,4,3,,,1,1,,,Jun  -  Aug,
+Hordeum murinum,Poaceae,HORMUR,HOMU,FACU,C3 Likely,468.6,229.5782252,,0.25,,,10.5,0.216,-29.5564,-2.9304,43.1647,4.2213,10.3011,,,,,,,,,,,,,,,,,,
+Imperata brevifolia,Poaceae,IMPBRE,IMBR2,FAC,C4 Likely,166.14,,,1.1,1.2192,,,0.248,,,,,,,,,,,,,,,,,,1,1,,,May  -  Oct,
+Isocoma acradenia,Asteraceae,ISOACR,ISAC2,FACU,C3,95.74,96,,1.22,1.2192,0.547,0.547,0.575,-29.9225,2.1656,43.6763,2.1102,21.5831,,12,,,2,3,,3,4,,,2,1,2,1,,Jul - Nov,
+Juncus acutus,Juncaeae,JUNACU,JUAC2,FACW,,,,,0.95,,0.06,,,,,,,,,8,,0.4,4,,,,3,,,2,1,1,2,,May  -  Jun,Oct
+Juncus articulatus,Juncaeae,JUNART,JUAR4,OBL,C3 Likely,101.38,197.08,,0.625,0.35,0.02,0.02,0.181,-28.3269,8.2852,41.2091,2.2523,18.5572,,,,0.23,4,2,4,4,3,2,2,,1,1,2,2,Jun  -  Aug,
+Juncus arcticus ssp. littoralis,Juncaeae,JUNARC,JUARL,FACW,,53.07,,,0.265,0.6,0.057,0.048,0.168,-30.1133,7.0737,44.9669,1.3383,34.7649,,,,0.21,4,2,4,4,3,2,3,,1,1,4,2,May  -  Sep,Aug - Sep
+Juncus bufonius,Juncaeae,JUNBUF,JUBU,FACW,,,,,0.16,,0.02,,,,,,,,0.19,0.45,,0.01,4,1,,,1,1,,1,1,2,1,2,Apr  -  Sep,May - Oct
+Juncus confusus,Juncaeae,JUNCON,JUCO2,FAC,,,,,0.28,,0.02516,,,,,,,,,,,,4,2,4,4,3,2,2,,1,2,1,2,Jun  -  Aug,
+Juncus ensifolius,Juncaeae,JUNENS,JUEN,FACW,,,,,0.4,,0.021,,,,,,,,,,,,4,2,4,4,3,2,2,,1,1,3,2,Jul  -  Aug,
+Juncus nevadensis,Juncaeae,JUNNEV,JUNE,FACW,,,,,0.45,,0.025,,,,,,,,,,,,4,2,4,4,1,2,2,,1,1,3,2,Jun  -  Aug,
+Juncus torreyi,Juncaeae,JUNTOR,JUTO,FACW,C3 Likely,81.84,66.88,,0.5,0.65,0.012,0.012,0.141,-28.6143,4.9542,40.2262,2.2361,18.5841,,5.5,,,4,2,3,3,3,1,2,,1,1,3,2,Jul  -  Sep,
+Juncus xiphioides,Juncaeae,JUNXIP,JUXI,OBL,,,,,0.6,,0.0085,,,,,,,,,,,0.15,,,,,,,,,1,1,,2,May  -  Oct,
+Kallstroemia californica,Zygophyllaceae,KALCAL,KACA,UPL,,,,,0.01,,,,,,,,,,,,,,,,,,,,,1,1,2,1,,Aug  -  Oct,
+Lactuca serriola,Asteraceae,LACSER,LASE,FACU,,158.53,183,,1.05,1.03632,0.58,0.58,0.378,,,,,,0.1,2.93,,0.55,2,4,4,,2,2,,1,1,2,1,,May  -  Sep,
+Larrea tridentata,Zygophyllaceae,LARTRI,LATR2,UPL,C3,90.81,39.6,,2,4,4.67,4.67,0.835,,,,,,,1.84,,5,2,4,2,,1,,,4,1,1,2,1,Apr - May,
+Lepidium fremontii,Brassicaceae,LEPFRE,LEFR2,UPL,C3 Likely,149.77,,,0.55,0.55,0.374,0.374,0.518,-27.5381,2.3771,39.1261,3.4247,11.4978,,,,,,,,,,,,,1,2,1,,Mar  -  Sep,
+Lepidium latifolium,Brassicaceae,LEPLAT,LELA2,FAC,C3 Likely,173.34,,,1.15,0.7,0.1,0.1,0.453,-28.419,2.7827,43.1782,2.4602,17.9274,,,,3,4,3,3,,4,,,,1,1,3,2,Jun  -  Aug,Aug
+Loeseliastrum matthewsii,Polemoniaceae,LOEMAT,LOMA10,UPL,,114.79,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lolium perenne,Poaceae,LOLPER,LOPE,FAC,,368,166.6666667,,0.65,,2.2,,,,,,,,0.189,8,,1.4,2,2,2,4,3,1,3,2,1,2,1,2,Jun  -  Aug,Jul - Sep
+Lotus wrightii,Fabaceae,LOTWRI,LOWR,UPL,,140,,,0.2,,2.9,,,,,,,,,,,,1,4,2,2,2,2,1,,1,2,1,2,May - Sep,"Spring, Summer"
+Lycium cooperi,Solanaceae,LYCCOO,LYCO2,UPL,,79.58,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lycium pallidum,Solanaceae,LYCPAL,LYPA,UPL,,,,,1.5,,188.033,,,,,,,,,,,0.5,1,4,2,3,4,1,2,,1,1,1,1,Apr - Jun,"Summer, Fall"
+Machaeranthera canescens,Asteraceae,MACCAN,MACA2,UPL,C3,169.66,110,,0.34,,0.21,0.21,0.499,-27.629,2.9514,45.8803,2.5418,18.0505,,,,,,4,,,,1,,2,1,2,1,2,May  -  Sep,
+Mammillaria grahamii,Cactaceae,MAMGRA,MAGR9,UPL,,,,,0.1524,,,,,,,,,,,,,,,,,,,,,,1,2,1,,Apr  -  Sep,
+Xanthisma spinulosum,Asteraceae,XANSPI,MAPI,UPL,,212.26,,,0.33,0.55,0.488,0.534,,,,,,,,,,,,,,,,,,2,1,2,1,,Apr  -  Jun,
+Melilotus albus,Fabaceae,MELALB,MEAL,FACU,C3,212.99,,,1,,,2.5,0.393,-30.6809,-0.2385,42.3121,3.8715,11.3839,,,,,,,,,,,,,,,,,,
+Mentha arvensis,Lamiaceae,MENARV,MEAR4,FACW,C3,237.16,,,0.475,0.3,0.2,0.2,0.218,,,,,,,2.38,,,3,2,1,3,2,2,2,,2,1,1,2,Jul - Oct,
+Melilotus officinalis,Fabaceae,MELOFF,MEOF,FACU,,186,,,1,,2.5,,,,,,,,0.21,6.46,,1.98,2,4,4,3,3,1,3,1,1,2,1,2,May - Oct,"Summer, Summer"
+Microsteris gracilis,Polemoniaceae,MICGRA,MIGR,FACU,,203.51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mimulus guttatus,Scrophulariaceae,MIMGUT,MIGU,OBL,,650,490,,0.76,,0.02,,,,,,,,,2.5,,0.02,,1,,,2,1,3,2,1,1,,,Mar  -  Aug,Aug - Sep
+Mirabilis multiflora,Nyctaginaceae,MIRMUL,MIMU,UPL,,260.3364464,,,0.55,,40.755,,,,,,,,,,,,1,4,2,2,4,1,2,,1,2,1,2,Apr - Oct,"Summer, Summer"
+Mimulus rubellus,Phrymaceae,MIMRUB,MIRU,FAC,,180.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Muhlenbergia asperifolia,Poaceae,MUHASP,MUAS,FACW,C4,309.02,,,0.3,0.3,0.09084,0.091,0.362,,,,,,,4.69,,,3,2,4,4,3,3,2,,1,1,3,2,May - Oct,"Summer, Fall"
+Muhlenbergia microsperma,Poaceae,MUHMIC,MUMI,UPL,,376.06,,,0.325,0.325,0.1796,,,,,,,,,,,,,,,,,,,,1,2,1,,,
+Muhlenbergia pauciflora,Poaceae,MUHPAU,MUPA2,UPL,,,,,0.4,,,,,,,,,,,,,,,,,,,,,,1,1,,,Aug  -  Sep,
+Muhlenbergia porteri,Poaceae,MUHPOR,MUPO2,UPL,C4,360.7,270,,0.575,0.65,0.2784,0.278,0.944,,,,,,0.119,,,0.65,1,4,4,3,2,2,2,3,1,2,1,2,Jul  -  Sep,"Summer, Summer"
+Nicotiana obtusifolia,Solanaceae,NICOBT,NIOB,FACU,C3,181.15,,,0.5,,,0.048,0.233,,,,,,,,,,,,,,,,,,,,,,,
+Oenothera elata,Onagraceae,OENELA,OEELH2,FACW,C3,105.86,,,0.9,0.9,0.338,0.338,0.269,-27.0639,3.6511,44.5593,2.2573,31.7709,,3.9,,,2,3,1,2,2,1,3,2,1,2,1,2,Jul - Oct,
+Oenothera pallida,Onagraceae,OENPAL,OEPA,UPL,C4 Likely,157.89,,,0.425,0.4,0.2896,0.29,0.275,-28.9288,3.8211,41.8851,2.1566,19.7084,,,,,1,4,4,2,2,1,2,2,1,2,1,2,Mar - Oct,"Spring, Summer"
+Palafoxia aridum,Asteraceae,PALARI,PAAR8,UPL,,106.51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Panicum capillare,Poaceae,PANCAP,PACA6,FACU,C4 Likely,283.17,321,,0.7,0.3,0.3,0.3,0.255,,,,,,0.32,,,,,,,,,2,,1,1,2,1,2,Jun  -  Sep,Sep - Oct
+Hopia obtusa,Poaceae,HOPOBT,PAOB,FACU,,232.25,210,,0.45,,3.3,,,,,,,,0.104,12,,,,4,4,4,4,2,3,,1,1,4,2,Aug  -  Sep,"Summer, Fall"
+Pascopyrum smithii,Poaceae,PASSMI,PASM,FAC,C3,100.94,130,137.3626374,0.65,0.6,2.89,2.89,0.505,,,,,,0.093,12,,3.6,3,4,4,3,4,1,3,,1,1,3,2,Jun - Aug,Aug - Sep
+Perityle emoryi,Asteraceae,PEREMO,PEEM,UPL,,,,,0.35,,0.388,,,,,,,,,,,,,,,,,,,1,1,2,1,,Apr  -  May,
+Phragmites australis,Poaceae,PHRAUS,PHAU7,FACW,C3,155.89,235,,3,2.5,0.1,0.1,0.414,-28.2175,6.8623,45.713,2.437,18.9093,,40.6,,0.6,4,2,4,3,4,1,3,,2,1,4,2,Jul - Oct,
+Piptatherum miliaceum,Poaceae,PIPMIL,PIMI3,UPL,C3,278.5,,,0.95,0.48,0.6,0.6,0.344,-27.9333,0.7961,44.2061,3.7941,11.8719,,3,,0.3,,4,4,,2,2,,,1,1,,,Jun  -  Sep,
+Hilaria jamesii,Poaceae,HILJAM,PLJA,UPL,C4,107.45,,,0.3,0.28,2.98,,0.457,,,,,,,,,1.2,1,4,3,2,4,1,1,2,1,1,2,1,May - Sep,"Summer, Fall"
+Plantago lanceolata,Plantaginaceae  ,PLALAN,PLLA,FAC,C3 Likely,199.65,409,,0.325,0.33528,1.3,1.3,0.13,-30.7356,3.1537,37.0523,2.1463,17.4824,0.25,,,1,3,3,,4,3,2,,2,1,2,1,,May - Sep,
+Plantago major,Plantaginaceae  ,PLAMAJ,PLMA2,FAC,C3 Likely,250.77,47,242.4830262,0.3,0.3,0.2,0.2,0.14,-30.4727,3.2156,32.0781,1.6067,20.2991,0.28,5.5,,0.8,3,3,4,3,3,2,2,2,1,2,1,2,Apr - Sep,"Summer, Fall"
+Pluchea odorata,Asteraceae,PLUODO,PLOD,FACW,,185.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plantago ovata,Plantaginaceae  ,PLAOVA,PLOV,FACU,,,,,0.095,,1.6,,,,,,,,,12,,0.1,,3,,,4,,,1,1,2,,,Feb  -  Apr,
+Plantago patagonica,Plantaginaceae  ,PLAPAT,PLPA2,UPL,C3 Likely,123.59,350,,0.2,0.06,0.5,0.5,,-30.5439,-1.0149,41.0257,1.0886,38.2133,,,,0.3,,,,,,,,1,1,2,,,Apr  -  Jun,
+Hilaria rigida,Poaceae,HILRIG,PLRI3,UPL,C4 Likely,122.78,113.6572533,,0.55,0.68,2.8616,2.86,0.476,,,,,,,8,,0.42,1,4,4,2,3,1,2,4,1,1,3,2,Feb  -  Sep,Aug - Sep
+Pluchea sericea,Asteraceae,PLUSER,PLSE,FACW,C3,125.48,66.8,,1.9,1.9,0.022,0.91,0.476,-29.6205,2.3748,46.9642,1.9014,25.3323,0.15,25,,1.3,4,3,4,4,4,,,2,1,1,3,1,Mar - Jun,
+Poa compressa,Poaceae,POACOM,POCO,FACU,,123.11,,,,,,,,,,,,,,5.156,,,,,,,,,,,,,,,,
+Populus fremontii,Salicaceae,POPFRE,POFR2,FACW,C3,69,119.6,,17.5,20,0.56,2.652,0.481,-29.8065,-1.1344,39.9496,0.981,41.3735,0.1,7,6,5,3,3,3,4,3,1,3,3,1,1,,1,Mar  -  Apr,Feb - Apr
+Porophyllum gracile,Asteraceae,PORGRA,POGR5,UPL,C3 Likely,132.17,,,0.275,0.27432,0.57,0.57,0.494,,,,,,,,,,,,,,,,,2,1,2,1,,Mar - Nov,
+Polygonum lapathifolium,Polygonaceae,POLLAP,POLA4,UPL,,189.3,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,
+Polypogon monspeliensis,Poaceae,POLMON,POMO5,FACW,C3 Likely,210.54,289.5744416,,0.325,0.22,0.1,0.1,0.328,-27.9013,4.3966,41.4698,3.2875,12.6358,,15.6,,0.36,4,2,3,4,4,1,3,1,1,2,1,2,Mar - Oct,"Summer, Summer"
+Portulaca oleracea,Portulacaceae ,POROLE,POOL,FAC,,170,,,0.2286,,0.1,,,,,,,,,,,0.33,,,,,4,1,,1,1,1,2,,May  -  Sep,
+Poa pratensis,Poaceae,POAPRA,POPR,FAC,,260,,,0.48,,0.3,,,,,,,,0.25,5.5,,1,,2,4,4,3,2,2,,1,1,4,2,May  -  Sep,"Spring, Summer"
+Polypogon viridis,Poaceae,POLVIR,POVI9,FACW,C3,472.18,,,0.475,0.45,0.094,0.094,0.279,-30.1406,6.2236,40.0323,3.3359,12.1291,,,,,,,3,,,,,,1,1,,,May  -  Aug,
+Prosopis glandulosa,Fabaceae,PROGLA,PRGL2,UPL,C3,97.11,51.2,,4,7.5,69.67,69.67,0.667,-28.6016,2.837,47.7365,3.9675,12.0822,,11.4,,20,2,4,4,2,4,1,2,3,1,1,,1,Apr - Aug,
+Prosopis pubescens,Fabaceae,PROPUB,PRPU,FAC,,114.18,,,,,,,,,,,,,,9.4,,,,,,,,,,,,,,,,
+Pseudognaphalium luteoalbum,Asteraceae,PSELUT,PSLU6,FAC,,,,,0.375,,0.0141,,,,,,,,,,,0.17,,,,,,,,1,1,2,,,Jun  -  Oct,
+Pseudognaphalium stramineum,Asteraceae,PSESTR,PSST7,FAC,C3 Likely,449.33,,,0.375,0.39624,0.011,0.011,0.256,-32.4081,5.9591,38.3521,2.3068,16.7611,,,,,,,,,,,,1,1,2,1,,May  -  Oct,
+Quercus turbinella,Fagaceae,QUETUR,QUTU2,UPL,,80,,,3.5,,1397.33,,,,,,,,,,,9.1,,4,4,,,,,,1,1,,1,Apr  -  Sep,Aug - Sep
+Rumex crispus,Polygonaceae,RUMCRI,RUCR,FAC,,493,,,0.75,,1.5,,,,,,,,,11.25,,3.3,3,3,,,4,,,2,1,2,1,,May  -  Oct,
+Rumex obtusofolius,Polygonaceae,RUMOBT,RUOB,UPL,,165.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sanvitalia abertii,Asteraceae,SANABE,SAAB,UPL,,,,,0.155,,,,,,,,,,,,,,,,,,,,,1,1,2,1,,Aug  -  Sep,
+Sarcostemma cynanchoides,Apocynaceae,SARCYN,SACY2,FACU,,308.34,,,,,,,0.204,,,,,,,,,,,,,,,,,,,,,,,
+Salix exigua,Salicaceae,SALEXI,SAEX,FACW,C3 Likely,98.4,85.4,,2.5,2.5,0.05,0.05,0.443,-28.7479,0.3134,44.9038,2.0507,22.4726,,1.66,,,4,2,4,4,1,1,3,3,2,1,3,1,Mar - May,"Summer, Spring"
+Salix gooddingii,Salicaceae,SALGOO,SAGO,FACW,C3 Likely,111.64,111.6,,8,8,0.0708,0.071,0.453,-29.8562,2.2148,46.6619,1.8798,25.1485,0.14,6,,2.1,4,3,4,4,3,1,3,3,1,2,1,1,Apr - May,
+Salsola tragus,Chenopodiaceae,SALTRA,SATR12,FACU,C4,138.39,150,,0.8,0.5,1.824,1.824,0.378,,,,,,,39.8,,1.8,2,4,2,,4,1,3,1,1,2,,2,Apr - Sep,
+Schoenoplectus acutus,Cyperaceae,SCHACU,SCAC3,OBL,,,,,2,,1.164,,,,,,,,0.13,5.5,,0.6,4,2,4,4,3,1,2,,1,1,3,2,Jun  -  Aug,"Spring, Fall"
+Schoenoplectus americanus,Cyperaceae,SCHAME,SCAM6,OBL,C3 Likely,183.83,129.21,,1.05,0.1,4.0504,4.05,0.117,,,,,,0.13,42.5,,0.65,4,2,4,,4,2,2,,1,1,,2,Jun  -  Sep,
+Schismus arabicus,Poaceae,SCHARA,SCAR,UPL,C3 Likely,252.19,,,0.2,0.125,0.16,0.16,0.39,,,,,,,,,0.18,,4,4,,,1,3,1,1,2,1,2,Jan  -  May,
+Schedonorus arundinaceus,Poaceae,SCHARU,SCAR7,FACU,C3,169.87,164.5617926,111.1111111,1.4,1.25,2.4,2.4,0.24,-29.7109,1.8978,40.3808,1.5625,26.2685,,10,,2.7,3,2,4,3,4,1,3,,1,1,2,2,May  -  Jul,"Spring, Summer"
+Schismus barbata,Poaceae,SCHBAR,SCBA,UPL,,159.76,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Schoenoplectus pungens,Cyperaceae,SCHPUN,SCPU10,OBL,C3 Likely,71.05,,,0.645,0.58,2.6118,2.612,0.102,-29.1701,4.5977,39.6688,2.0607,19.3803,,5.5,,0.15,4,2,3,4,3,1,2,,1,1,3,2,May  -  Aug,
+Schizachyrium scoparium,Poaceae,SCHSCO,SCSC,FACU,,151,153.8461538,,0.85,,1.5,,,,,,,,0.17,1.5,,1.8,1,4,3,2,1,1,2,,1,2,1,2,Jul  -  Sep,"Summer, Fall"
+Setaria grisebachii,Poaceae,SETGRI,SEGR6,UPL,,,,,1.00584,,,,,,,,,,,,,,,,,,,,,1,1,2,,,,
+Sisymbrium irio,Brassicaceae,SISIRI,SIIR,UPL,,117.53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sonchus asper,Asteraceae,SONASP,SOAS,FAC,,290,,,0.65,,0.28,,,,,,,,,0.8,,0.69,3,3,3,,1,,,1,1,2,1,,Feb - Oct,
+Sonchus oleraceus,Asteraceae,SONOLE,SOOL,UPL,,647,,,0.6,,0.3,,,,,,,,,,,,3,3,3,4,3,,,1,1,2,1,,Feb - Oct,
+Sporobolus airoides,Poaceae,SPOAIR,SPAI,FAC,C4 Likely,84.86,,,0.78,1.15,0.26,0.26,0.327,,,,,,,42.656,,,3,4,3,2,4,1,2,,1,2,1,2,Apr - Oct,"Summer, Fall"
+Sporobolus contractus,Poaceae,SPOCON,SPCO4,UPL,C4,186.75,,,0.7,0.8,0.1584,0.158,0.483,,,,,,,,,1.3,,4,2,,,,,,1,2,1,,Aug - Oct,
+Sporobolus cryptandrus,Poaceae,SPOCRY,SPCR,FACU,C4,213.86,284,,0.65,0.65,0.1,0.1,0.387,,,,,,0.21,4,,1.5,2,4,3,2,2,1,2,,1,2,1,2,May  -  Oct,"Summer, Fall"
+Sporobolus flexuosus,Poaceae,SPOFLE,SPFL2,FACU,C4,197.59,140,,0.65,0.65,0.1168,0.117,0.368,,,,,,0.137,,,1.4,1,4,4,2,3,1,2,3,1,2,1,2,May  -  Oct,"Summer, Summer"
+Sporobolus giganteus,Poaceae,SPOGIG,SPGI,FACU,C4 Likely,157.86,,,1.5,1.1,0.2024,0.202,0.363,,,,,,,4,,,,,,,2,,2,,1,2,1,,Jun  -  Sep,
+Streptanthella longirostris,Brassicaceae,STRLON,STLO4,UPL,,217.9,,,0.3,,,0.44,0.259,,,,,,,,,,,,,,,,,,,,,,,
+Stephanomeria pauciflora,Asteraceae,STEPAU,STPA4,UPL,C3,115.04,68.14,121,0.45,0.4572,0.717,0.717,0.558,-28.2851,3.2911,49.2739,1.6069,32.0282,,,,,,,,,,,,2,1,2,1,,May  -  Oct,
+Stanleya pinnata,Brassicaceae,STAPIN,STPI,UPL,C3,101.93,,,0.775,0.775,1.336,1.336,0.586,-27.0667,1.0343,37.8769,3.3714,11.4788,,,,,,,,,3,,,,1,2,1,,May  -  Jul,
+Suaeda moquinii,Amaranthaceae,SUAMOQ,SUMO,UPL,,91.08,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Suaeda suffrutescens,Chenopodiaceae,SUASUFF,SUSU,UPL,,,,,1.2192,,0.2,,,,,,,,,,,,4,2,,,4,,3,,1,,,1,,
+Symphyotrichum subulatum,Asteraceae,SYMSUB,SYSU5,OBL,,219.35,302.45,,0.5,0.5,0.104,,0.224,,,,,,,9.844,,,3,2,4,3,4,1,2,1,1,2,1,2,Jul  -  Oct,
+Taraxacum officinale,Asteraceae,TAROFF,TAOF,FACU,,263.24,441,230,0.315,0.18,0.7,0.6,0.124,-30.3489,1.3316,40.3891,2.9348,13.9012,0.17,4.69,,2,3,3,3,3,3,2,3,2,1,2,1,1,Apr  -  Dec,Apr - Dec
+Tamarix parviflora,Tamaricaceae,TAMPAR,TAPA4,FAC,,62.17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tamarix ramosissima,Tamaricaceae,TAMRAM,TARA,FAC,C3,191.67,69,,6,4,0.1462,0.146,0.589,-29.4323,4.1729,39.3162,2.7072,14.6752,0.12,96,,4.9,3,3,4,4,4,1,2,,1,1,2,1,Mar - Aug,Apr-Sept
+Thymophylla pentachaeta,Asteraceae,THYPEN,THPE4,UPL,,255.21,,,0.18,0.18,0.142,0.142,0.559,,,,,,,,,,,4,,,,,,,1,2,1,,Mar  -  Dec,
+Trixis californica,Asteraceae,TRICAL,TRCA8,UPL,,217.2203046,,,1.1,,1.191,,,,,,,,,,,,,,,,,,,3,1,,,,Feb  -  Aug,
+Tridens muticus,Poaceae,TRIMUT,TRMU,FAC,C4,174,,,0.4,,,0.484,0.648,,,,,,,,,,,,,,,,,,,,,,,
+Tribulus terrestris,Zygophyllaceae,TRITER,TRTE,UPL,,69.33,,,0.01,,38.97,,,,,,,,,,,2.6,,,,,,,3,1,1,2,1,,Apr  -  Oct,
+Typha domingensis,Typhaceae,TYPDOM,TYDO,OBL,C3,69.93,61.80698627,,2.75,2.75,0.12,0.12,0.099,,,,,,,5.5,,0.27,4,1,3,,3,,,,1,1,,,Jun  -  Jul,
+Typha latifolia,Typhaceae,TYPLAT,TYLA,OBL,C3 Likely,83.9,27.02702703,,2,2,0.06,0.1,0.039,,,,,,0.24,17.5,,0.25,4,1,4,4,4,1,3,,1,1,4,1,Jun  -  Aug,Jul - Sep
+Veronica americana,Scrophulariaceae,VERAME,VEAM2,OBL,,,,,0.24,,0.082,,,,,,,,,,,,3,2,4,4,1,3,3,,1,1,3,2,May - Aug,"Summer, Fall"
+Veronica anagallis-aquatica,Scrophulariaceae,VERANA,VEAN2,OBL,,224,,,0.5,,0.0694,,,,,,,,,0.5,,0.25,4,1,,,1,,,,1,1,,,Mar  -  Oct,
+Verbena bracteata,Verbenaceae,VERBRA,VEBR,FAC,C3 Likely,123.64,200,,0.19,0.54864,0.5,0.5,0.474,,,,,,,,,,,,,,,,,1,1,2,1,,May  -  Oct,
+Verbascum thapsus,Scrophulariaceae,VERTHA,VETH,FACU,,186.64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Vulpia octoflora,Poaceae,VULOCT,VUOC,UPL,,,,,0.3,,0.6092,,,,,,,,0.07,,,0.18,,4,3,,,,3,1,1,2,1,2,Apr  -  Jun,
+Wislizenia refracta,Capparaceae,WISREF,WIRE,FACU,,,,,1.9812,,1.1,,,,,,,,,,,,,,,,4,,,1,1,,,,Apr  -  Nov,
+Xanthium strumarium,Asteraceae,XANSTR,XAST,FAC,C3,128.47,237,,0.575,1.1,203.4,203.4,0.139,-26.9038,-0.5669,40.1801,4.1577,9.6945,0.187,5.5,,2.9,4,2,3,,3,1,3,2,1,2,1,,Apr - Oct,
+Achnatherum speciosum,Poaceae,ACHSPE,ACSP12,UPL,,69.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Agrostis gigantea,Poaceae,AGRGIG,AGGI2,FACW,,,,,,,0.08,,,,,,,,,,,,,,,,,,,,,,,,,
+Aloysia wrightii,Verbenaceae,ALOWRI,ALWR,UPL,,212.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ambrosia psilostachya,Asteraceae,AMBPSI,AMPS,FACU,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,
+Artemisia frigida,Asteraceae,ARTFRI,ARFR4,UPL,,,,,,,,,,,,,,,,3.33,,,,,,,,,,,,,,,,
+Bothriochloa laguroides,Poaceae,BOTLAG,BOLA2,UPL,,198.82,,,,,1.2411,,,,,,,,,,,,,,,,,,,,,,,,,
+Bouteloua curtipendula,Poaceae,BOUCUR,BOCU,UPL,,,,,,,0.57959,,,,,,,,,1.15,,,,,,,,,,,,,,,,
+Chamaesyce micromera,Euphorbiaceae,CHAMIC,CHMI7,UPL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Descurainia pinnata,Brassicaceae,DESPIN,DEPI,UPL,,,,,,,0.1,,,,,,,,,,,,,,,,,,,,,,,,,
+Ephedra facsiculata,Ephedraceae,EPHFAS,EPFA,UPL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Epilobium ciliatum,Onograceae,EPICIL,EPCI,FACW,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,
+Epipactis gigantea,Orchidaceae,EPIGIG,EPGI,OBL,,,,,,,0.003,,,,,,,,,,,,,,,,,,,,,,,,,
+Erigeron divergens,Asteraceae,ERIDIV,ERDI4,UPL,,,,,,,0.0356,,,,,,,,,,,,,,,,,,,,,,,,,
+Erigeron lobatus,Asteraceae,ERILOB,ERLO6,UPL,,260.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eriogonum wrightii,Polygonaceae,ERIWRI,ERWRW,UPL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Erodium texanum,Geraniaceae,EROTEX,ERTE13,UPL,,103.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Galium stellatum,Rubiaceae,GALSTE,GASTE2,UPL,,281.4747691,,,,,2.8288,,,,,,,,,,,,,,,,,,,,,,,,,
+Hedeoma nana,Lamiaceae,HEDNAN,HENA,UPL,,,,,,,0.2164,,,,,,,,,,,,,,,,,,,,,,,,,
+Hofmeisteria pluriseta,Asteraceae,HOFPLU,HOPL4,UPL,,258.96,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lepidium densiflorum,Brassicaceae,LEPDEN,LEDE,UPL,,,,,,,0.33,,,,,,,,,,,,,,,,,,,,,,,,,
+Lepidium montanum,Brassicaceae,LEPMON,LEMO2,UPL,,,,,,,0.6024,,,,,,,,,,,,,,,,,,,,,,,,,
+Lycium andersonii,Solanaceae,LYCAND,LYAN,UPL,,270.49,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Malvela leprosa,Malvaceae,MALLEP,MALE3,UPL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Maurandella antirrhiniflora,Scrophulariaceae,MAUANT,MAAN9,UPL,,209.64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mirabilis laevis var villosa,Nyctaginacae,MIRLAE,MILAV,UPL,,120.94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Muhlenbergia appressa ,Poaceae,MUHAPP,MUAP,UPL,,353.07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nolina microcarpa,Liliaceae,NOLMIC,NOMI,UPL,,17.91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Opuntia basilaris,Cactaceae,OPUBAS,OPBAB2,UPL,,,,,,,56.043,,,,,,,,,,,,,,,,,,,,,,,,,
+Orobanche cooperi,Orobanchaceae,OROCOO,ORCO4,UPL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Purshia stansburiana,Rosaceae,PURSTA,PUST,UPL,,61.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Senna covesii,Fabaceae,SENCOV,SECO10,UPL,,107.81,,,,,4.4,,,,,,,,,,,,,,,,,,,,,,,,,
+Sphaeralcea ambigua,Malvaceae,SPHAMB,SPAM2,UPL,,114.59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sphaeralcea grossulariifolia,Malvaceae,SPHGRO,SPGR2,UPL,,111.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stylocline micropoides,Asteraceae,STYMIC,STMI2,UPL,,,,,,,0.1648,,,,,,,,,,,,,,,,,,,,,,,,,
+Tiquilia latior,Boraginaceae,TIQLAT,TILA6,UPL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Acroptilon repens,Asteraceae,ACRREP,ACRE3,UPL,,234.9136622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Brickellia atractyloides,Asteraceae,BRIATR,BRAT,UPL,,106.2162166,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Heteropogon contortus,Poaceae,HETCON,HECO10,FACU,,215.9851364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Oenothera curtiflora,Onagraceae,OENCUR,OECU2,FACU,,163.0991124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Paspalum dilatatum,Poaceae,PASDIL,PADI3,FAC,,220.9625014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ranunculus cymbalaria,Ranunculaceae,RANCYM,RACY,UPL,,327.1426037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Setaria leucopila,Poaceae,SETLEU,SELE6,UPL,,338.3095363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Zeltnera exaltata,Gentianaceae,ZELEXA,CEEX,FACW,,535.880756,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
