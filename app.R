@@ -1,6 +1,6 @@
-#V.0.4 of visual data app for USGS
+#V.0.5 of visual data app for USGS
 #Created by Tayan Benson
-#Devlog 6/10/24
+#Devlog 6/11/24
 
 library(shiny)
 library(shinydashboard)
@@ -25,7 +25,7 @@ ui <- dashboardPage(skin = "black",
           .skin-black .main-header .logo:hover {
             background-color: darkolivegreen;
           }
-                                             '))),
+        '))),
      
                                  
     fileInput("file", "Choose CSV File",
@@ -35,15 +35,15 @@ ui <- dashboardPage(skin = "black",
                 "text/comma-separated-values,text/plain",
                 ".csv")),
     
-    checkboxInput("header", "Header", TRUE),
+    #checkboxInput("header", "Header", TRUE),
     
     
     sidebarMenu(
       id = "tabs",
-      menuItem("Graph 1", tabName = "graph1", icon = icon("chart-line")),
-      menuItem("Graph 2", tabName = "graph2", icon = icon("chart-line")),
-      menuItem("Graph 3", tabName = "graph3", icon = icon("chart-line")),
-      menuItem("Graph 4", tabName = "graph4", icon = icon("chart-line"))
+      menuItem("Plot 1", tabName = "graph1", icon = icon("chart-simple")),
+      menuItem("Plot 2", tabName = "graph2", icon = icon("chart-line")),
+      menuItem("Plot 3", tabName = "graph3", icon = icon("chart-column")),
+      menuItem("Plot 4", tabName = "graph4", icon = icon("chart-area"))
     ),
     uiOutput("sidebar_ui")
   ),
@@ -74,7 +74,8 @@ server <- function(input, output, session) {
   
   data <- reactive({
     req(input$file)
-    df <- read.csv(input$file$datapath, dec = ".", sep = ",", fileEncoding = "ISO-8859-1", header = input$header)
+    df <- read.csv(input$file$datapath, dec = ".", sep = ",", fileEncoding = "ISO-8859-1")
+                   #, header = input$header)
     df
   })
   
@@ -85,9 +86,10 @@ server <- function(input, output, session) {
     
     tagList(
       selectInput(paste0("facet", plot_index), "Facet Filter", choices = c("none", "Wetland"), selected = isolate(input[[paste0("facet", plot_index)]])),
-      selectInput(paste0("plotselect", plot_index), "Plot Type", choices = c("Geopoint", "Boxplot"), selected = isolate(input[[paste0("plotselect", plot_index)]])),
+      selectInput(paste0("plotselect", plot_index), "Plot Type", choices = c("Scatterplot", "Boxplot", "Counts Plot"), selected = isolate(input[[paste0("plotselect", plot_index)]])),
       selectInput(paste0("xcol", plot_index), "X Column", choices = colnames, selected = isolate(input[[paste0("xcol", plot_index)]])),
-      selectInput(paste0("ycol", plot_index), "Y Column", choices = colnames, selected = isolate(input[[paste0("ycol", plot_index)]]))
+      selectInput(paste0("ycol", plot_index), "Y Column", choices = colnames, selected = isolate(input[[paste0("ycol", plot_index)]])),
+      sliderInput(paste0("range", plot_index), "Range of Items in Matrix", min = 1, max = nrow(df), value = c(1, 10), step = 10)
     )
   }
   
@@ -104,18 +106,24 @@ server <- function(input, output, session) {
   renderPlotOutput <- function(plot_index) {
     renderPlot({
       req(data(), input[[paste0("xcol", plot_index)]], input[[paste0("ycol", plot_index)]])
+      
       df <- data()
       plot_type <- input[[paste0("plotselect", plot_index)]]
       facet_type <- input[[paste0("facet", plot_index)]]
       xcol <- input[[paste0("xcol", plot_index)]]
       ycol <- input[[paste0("ycol", plot_index)]]
+      range <- input[[paste0("range", plot_index)]]
       
-      p <- ggplot(df, aes_string(x = xcol, y = ycol))
+      subset_df <- df[range[1]:min(range[2], nrow(df)), ]
       
-      if (plot_type == "Geopoint") {
+      p <- ggplot(subset_df, aes_string(x = xcol, y = ycol), asp = 1)
+      
+      if (plot_type == "Scatterplot") {
         p <- p + geom_point() + theme_bw()
       } else if (plot_type == "Boxplot") {
-        p <- p + geom_boxplot() + theme_bw()
+        p <- p + geom_boxplot() + theme_bw() + labs(subtitle = "Boxplot")
+      } else if (plot_type == "Counts Plot") {
+        p <- p + geom_count(col = "darkolivegreen", show.legend = F) + theme_bw() + labs(subtitle = "Counts Plot")
       }
       
       
@@ -124,7 +132,9 @@ server <- function(input, output, session) {
       }
       
       
-      p + xlab(xcol) + ylab(ycol) + theme(axis.text.x = element_text(angle = 90, hjust = 1))
+      p + xlab(xcol) + ylab(ycol) + theme(axis.text.x = element_text(angle = 90, hjust = 1), 
+            axis.title.x = element_text(angle = 0, hjust = 1), 
+            axis.title.y = element_text(angle = 0))
     })
   }
   
