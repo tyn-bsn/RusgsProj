@@ -1,14 +1,13 @@
-#V.0.5 of visual data app for USGS
+#V.0.8 of visual data app for USGS
 #Created by Tayan Benson
-#Devlog 6/11/24
+#Devlog 8/2/24
 
 library(shiny)
 library(shinydashboard)
-library(shinyBS)
 library(ggplot2)
 
+
 ui <- dashboardPage(skin = "black",
-                    
   dashboardHeader(title = "USGS Plant Matrix"),
   dashboardSidebar(tags$head(tags$style(HTML('
           .progress-bar {
@@ -35,8 +34,6 @@ ui <- dashboardPage(skin = "black",
                 "text/comma-separated-values,text/plain",
                 ".csv")),
     
-    #checkboxInput("header", "Header", TRUE),
-    
     
     sidebarMenu(
       id = "tabs",
@@ -50,7 +47,6 @@ ui <- dashboardPage(skin = "black",
   
   
   dashboardBody(
-    
     tabItems(
       tabItem(tabName = "graph1",
               fluidRow(
@@ -74,8 +70,7 @@ server <- function(input, output, session) {
   
   data <- reactive({
     req(input$file)
-    df <- read.csv(input$file$datapath, dec = ".", sep = ",", fileEncoding = "ISO-8859-1")
-                   #, header = input$header)
+    df <- read.csv(input$file$datapath, dec = ".", sep = ",", fileEncoding = "ISO-8859-1", header = TRUE)
     df
   })
   
@@ -123,7 +118,7 @@ server <- function(input, output, session) {
       } else if (plot_type == "Boxplot") {
         p <- p + geom_boxplot() + theme_bw() + labs(subtitle = "Boxplot")
       } else if (plot_type == "Counts Plot") {
-        p <- p + geom_count(col = "darkolivegreen", show.legend = F) + theme_bw() + labs(subtitle = "Counts Plot")
+        p <- p + geom_count(col = "darkolivegreen", show.legend = F, aes(size = after_stat(prop), group = C)) + scale_size_area(max_size = 10) + theme_bw() + labs(subtitle = "Counts Plot")
       }
       
       
